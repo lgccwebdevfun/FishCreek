@@ -11,6 +11,9 @@ h1 {
 nav {
   font-weight: bold;
 }
+nav li {
+  display: inline;
+}
 
 .category {
   font-weight: bold;
